@@ -1,0 +1,4 @@
+consola
+--add archivo
+----commit -m "cambios"
+------push https://github.com/direccion
